@@ -10,8 +10,8 @@ Sharing lockouts does not require the host being present at the required locatio
 ## 📝 **Instructions** 
 
 ### 📢 **In-game Community**  
-0. Join either of my in-game communities with one of the following codes:  
-🔗 `DG5Ze4RuY9J` or `gWLnZNbuNPG` (Because Alliance can't whisper Horde)  
+0. Join my in-game community with the following code:  
+🔗 `DG5Ze4RuY9J`  because alliance can not normally whisper horde.  
 
 ### 👥 **For Everyone**  
 1. Ensure you're not in a party standing in front of the supported instance you like to join. (List below).  
